@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋 I am Yu!
+- 🔭 I'm currently a second-year PhD student at **Northeastern University** in **Shenyang, China**.
+- 🌱 Trying to learn all about **Machine Learning** and **Deep Learning**.
+- 😄 I'm interested in **Computer Visio** and **Concept Drift Detection**.
+  
+[![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cookie-y-y)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Cookie-y-y/Cookie-y-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
